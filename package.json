@@ -23,13 +23,11 @@
     "bugs": {
         "url": "https://github.com/gowravshekar/font-awesome-webpack/issues"
     },
-    "dependencies": {
-        "css-loader": "~0.8.0",
-        "less-loader": "~0.7.7",
-        "style-loader": "~0.8.0"
-    },
     "peerDependencies": {
-        "font-awesome": ">=4.3.0"
+        "font-awesome": ">=4.3.0",
+        "css-loader": ">=0.8.0",
+        "less-loader": ">=0.7.7",
+        "style-loader": ">=0.8.0"
     },
     "readme": "",
     "readmeFilename": "README.md",
